@@ -13,17 +13,17 @@
 - Power Query
 
 ## Project Objectives
-- To access the top selling products
-- To access the total annual profits.
+- To assess the top selling products
+- To assess the total annual profits.
 - To assess various sales performances across various regions.
 - To also assess sales performance across sales channels.
 - We will also examine monthly sales trends
 
 ## Data Cleaning
 - Removing Duplicate rows and columns.
-- Removing Blanked Columns and rows.
-- Correcting inconsistencies in Letters eg (laptop vs Laptop).
-- Triming the letters to remove extra spaces between them.
+- Removing Blank Columns and rows.
+- Correcting inconsistencies in Letters e.g (laptop vs Laptop).
+- Trimming the letters to remove extra spaces between them.
 
 ## Analysis Performed
 - Sales Performance: Evaluated total sales, total cost, and total profit to understand the overall financial performance of the business.
@@ -40,7 +40,7 @@
 
 ## Conclusion
 - Sales Performance Analysis provides insightful information on areas of strength as well as areas of improvement.
-- The Sales Performance Analysis provides a comprehensive overview of the the business sales performance across different products,  regions.
+- The Sales Performance Analysis provides a comprehensive overview of the business sales performance across different products, regions.
   
 ## What I Learned
 - Data Cleaning and transformation.
@@ -52,6 +52,6 @@
 [Dashboard screenshot](https://github.com/Gideon-portfolio/sales-performance-analysis/commit/e08925bed6bd00f03d8f2ee8e7a51629a141bac4)
 > Click the image to see a preview of the final dashboard.
 
-## sales-performance-analysis
+## Sales-performance-analysis
 This report contains a beginner-friendly sales analysis project done in excel and Power BI 
 
