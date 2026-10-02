@@ -1,9 +1,9 @@
 # Sales-Performance-Analysis
 
 ## Project Overview
-  This analysis examines a firm's full-year sales performance across 2025, drawing from 1,200 individual sales orders placed by 101 unique customers.
- -This analysis covers  twelve products across three categories (Electronics, Furniture, Accessories), sold through three channels (Retail, Wholesale, Online) across five regions (Lagos, Abuja, Ibadan, Kano, Port Harcourt).
- -It evaluates revenue, cost, profit, quantity sold, regional and channel performance, monthly sales trends.
+-This analysis examines a firm's full-year sales performance across 2025, drawing from 1,200 individual sales orders placed by 101 unique customers.
+-This analysis covers  twelve products across three categories (Electronics, Furniture, Accessories), sold through three channels (Retail, Wholesale, Online) across five regions (Lagos, Abuja, Ibadan, Kano, Port Harcourt).
+-It evaluates revenue, cost, profit, quantity sold, regional and channel performance, monthly sales trends.
 This analysis also explores ways in which the firm can improve profitablity.
 
 ## Tools Used
